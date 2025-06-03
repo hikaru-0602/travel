@@ -469,6 +469,7 @@ def format_hotel_results(results):
 
                     # 特典情報
                     if hotel_special:
+
                         with st.expander("🎯 特典・サービス"):
                             st.write(hotel_special)
 
