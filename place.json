@@ -1,0 +1,1901 @@
+{
+  "pagingInfo": {
+    "recordCount": 55,
+    "pageCount": 2,
+    "page": 1,
+    "first": 1,
+    "last": 30
+  },
+  "hotels": [
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 141356,
+            "hotelName": "高濃度炭酸泉　八重桜の湯　スーパーホテルＰｒｅｍｉｅｒ東京駅八重洲中央口",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/pvonD/?f_no=141356",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/vFumt/?f_no=141356&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/WzozX/?noTomariHotel=141356",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=141356",
+            "hotelKanaName": "やえざくらのゆ　すーぱーほてるぷれみあとうきょうえきやえすちゅうおうぐち",
+            "hotelSpecial": "東京駅から徒歩3分。男女別の大浴場「八重桜の湯」は健康イオン水大浴場と炭酸泉がお楽しみいただけます。",
+            "hotelMinCharge": 8870,
+            "latitude": 128433.61,
+            "longitude": 503183,
+            "postalCode": "104-0028",
+            "address1": "東京都",
+            "address2": "中央区八重洲2-2-7　 ",
+            "telephoneNo": "03-3241-9000",
+            "faxNo": "03-3241-9003",
+            "access": "東京駅より徒歩３分（八重洲中央口より）、羽田空港よりリムジンバスで30分、成田空港よりJRエクスプレスで60分。",
+            "parkingInformation": "事前予約制立体駐車場/1泊1000円(※2024年12月1日より1泊3000円) /入庫時間制限有",
+            "nearestStation": "東京",
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/141356/141356.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/141356.jpg",
+            "roomImageUrl": null,
+            "roomThumbnailUrl": null,
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/141356/141356map.gif",
+            "reviewCount": 3304,
+            "reviewAverage": 4.38,
+            "userReview": "新幹線の長旅のため、遅い時間…　2025-06-01 00:09:26投稿 \u003Ca href=\"https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=141356\" class=\"3click\"\u003Eつづきはこちら\u003C/a\u003E"
+          }
+        },
+        {
+          "roomInfo": [
+            {
+              "roomBasicInfo": {
+                "roomClass": "sma",
+                "roomName": "【素泊まり】お部屋タイプお任せ【当日までのお楽しみ】",
+                "planId": 5692435,
+                "planName": "【楽天月末セール】★スーパーホテル【素泊まり】期間限定プラン☆健康イオン水大浴場＆高濃度人工炭酸泉付",
+                "pointRate": 1,
+                "withDinnerFlag": 0,
+                "dinnerSelectFlag": 0,
+                "withBreakfastFlag": 0,
+                "breakfastSelectFlag": 0,
+                "payment": "1",
+                "reserveUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/IdsCY/?f_no=141356&f_syu=sma&f_hi1=2025-6-20&f_hi2=2025-6-22&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_camp_id=5692435",
+                "salesformFlag": 0
+              }
+            },
+            {
+              "dailyCharge": {
+                "stayDate": "2025-6-20",
+                "rakutenCharge": 21850,
+                "total": 21850,
+                "chargeFlag": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 160960,
+            "hotelName": "京王プレッソイン東京駅八重洲",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/pvonD/?f_no=160960",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/vFumt/?f_no=160960&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/WzozX/?noTomariHotel=160960",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=160960",
+            "hotelKanaName": "けいおうぷれっそいんとうきょうえきやえす",
+            "hotelSpecial": "6月1日～7月18日宿泊対象のクーポン配布中◆東京駅八重洲中央口から徒歩3分◆♪早朝出発・夜間到着でも安心の立地",
+            "hotelMinCharge": 9557,
+            "latitude": 128432.27,
+            "longitude": 503183.86,
+            "postalCode": "104-0031",
+            "address1": "東京都",
+            "address2": "中央区京橋1-4-1",
+            "telephoneNo": "03-3279-0202",
+            "faxNo": "03-3279-0203",
+            "access": "◆東京駅八重洲中央口から徒歩3分◆地下鉄銀座線京橋駅(8番出口)から徒歩2分と駅近で利便性が抜群！",
+            "parkingInformation": "駐車場のご用意はございません。 公共交通機関をご利用ください。",
+            "nearestStation": "東京",
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/160960/160960.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/160960.jpg",
+            "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/160960/160960_kan1.jpg",
+            "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/160960.jpg",
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/160960/160960map.gif",
+            "reviewCount": 1554,
+            "reviewAverage": 4.07,
+            "userReview": "東京駅から近く、立地的に素晴らしかったです。　2025-05-12 16:27:19投稿"
+          }
+        },
+        {
+          "roomInfo": [
+            {
+              "roomBasicInfo": {
+                "roomClass": "sn",
+                "roomName": "コンフォートシングルルーム【禁煙】",
+                "planId": 6112358,
+                "planName": "【楽天月末セール】素泊まり ｜ 都心での快適な滞在が魅力！JR「東京駅」八重洲中央口徒歩3分！",
+                "pointRate": 1,
+                "withDinnerFlag": 0,
+                "dinnerSelectFlag": 0,
+                "withBreakfastFlag": 0,
+                "breakfastSelectFlag": 0,
+                "payment": "1",
+                "reserveUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/IdsCY/?f_no=160960&f_syu=sn&f_hi1=2025-6-20&f_hi2=2025-6-22&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_camp_id=6112358",
+                "salesformFlag": 0
+              }
+            },
+            {
+              "dailyCharge": {
+                "stayDate": "2025-6-20",
+                "rakutenCharge": 21413,
+                "total": 21413,
+                "chargeFlag": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 40780,
+            "hotelName": "京王プレッソイン大手町",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/pvonD/?f_no=40780",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/vFumt/?f_no=40780&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/WzozX/?noTomariHotel=40780",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=40780",
+            "hotelKanaName": "けいおう　ぷれっそいん　おおてまち",
+            "hotelSpecial": "東京駅日本橋口より徒歩7分◆東京駅を望む絶好のロケーションと美しい夜景が魅力！東京ステーションビュープラン販売中",
+            "hotelMinCharge": 8531,
+            "latitude": 128465.28,
+            "longitude": 503183.54,
+            "postalCode": "103-0021",
+            "address1": "東京都",
+            "address2": "中央区日本橋本石町4-4-1",
+            "telephoneNo": "03-3241-0202",
+            "faxNo": "03-3241-0203",
+            "access": "地下鉄大手町駅から徒歩7分／ＪＲ東京駅日本橋口から徒歩７分／ＪＲ神田駅南口から徒歩５分",
+            "parkingInformation": "駐車場のご用意はございません。 公共交通機関をご利用ください。",
+            "nearestStation": "大手町（東京）",
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40780/40780.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/40780.jpg",
+            "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40780/40780_kya.jpg",
+            "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/40780.jpg",
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40780/40780map.gif",
+            "reviewCount": 6730,
+            "reviewAverage": 4.03,
+            "userReview": "大分前にお世話になって以来ですが、ちゃんと記録が残っていました。東京駅に近いビジネスホテルはなかなかないのでとても貴重な存在です。ただ、大分前に止まった時も指摘した気がしますが、このご時世BS放送が入…　2025-05-27 13:23:18投稿 \u003Ca href=\"https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=40780\" class=\"3click\"\u003Eつづきはこちら\u003C/a\u003E"
+          }
+        },
+        {
+          "roomInfo": [
+            {
+              "roomBasicInfo": {
+                "roomClass": "snp",
+                "roomName": "シングルルーム【禁煙】",
+                "planId": 6112061,
+                "planName": "【楽天月末セール】素泊まり ｜ 都心での快適な滞在が魅力！JR「東京駅」日本橋口より徒歩7分！",
+                "pointRate": 1,
+                "withDinnerFlag": 0,
+                "dinnerSelectFlag": 0,
+                "withBreakfastFlag": 0,
+                "breakfastSelectFlag": 0,
+                "payment": "1",
+                "reserveUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/IdsCY/?f_no=40780&f_syu=snp&f_hi1=2025-6-20&f_hi2=2025-6-22&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_camp_id=6112061",
+                "salesformFlag": 0
+              }
+            },
+            {
+              "dailyCharge": {
+                "stayDate": "2025-6-20",
+                "rakutenCharge": 15542,
+                "total": 15542,
+                "chargeFlag": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 149164,
+            "hotelName": "ダイワロイネットホテル銀座　ＰＲＥＭＩＥＲ",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/pvonD/?f_no=149164",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/vFumt/?f_no=149164&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/WzozX/?noTomariHotel=149164",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=149164",
+            "hotelKanaName": "だいわろいねっとほてるぎんざ　ぷれみあ",
+            "hotelSpecial": "喧騒から離れ静かに”上質な時”を満喫。銀座の中心部や歌舞伎座へも徒歩圏内。バス・トイレはセパレート☆",
+            "hotelMinCharge": 12115,
+            "latitude": 128412.07,
+            "longitude": 503180.02,
+            "postalCode": "104-0061",
+            "address1": "東京都",
+            "address2": "中央区銀座1丁目13-15",
+            "telephoneNo": "03-5159-1380",
+            "faxNo": "03-5159-1381",
+            "access": "東京メトロ　有楽町線　銀座一丁目駅より徒歩にて20秒",
+            "parkingInformation": "有り　５０台　2,000円（税込み／泊）　※駐車場の事前予約はお受け出来ません。",
+            "nearestStation": "銀座一丁目",
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/149164/149164.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/149164.jpg",
+            "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/149164/149164_room.jpg",
+            "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/149164.jpg",
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/149164/149164map.gif",
+            "reviewCount": 1035,
+            "reviewAverage": 4.23,
+            "userReview": "今回は東京の舞台観劇とコンサートを見る為、娘と二人旅で大都会のホテルをクーポン使って予約取れました。それだけでも嬉しかったのに、自動チェックインをしていたらホテルの方が来られ、今回空きがあるのでレディ…　2025-05-12 18:43:31投稿 \u003Ca href=\"https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=149164\" class=\"3click\"\u003Eつづきはこちら\u003C/a\u003E"
+          }
+        },
+        {
+          "roomInfo": [
+            {
+              "roomBasicInfo": {
+                "roomClass": "rohs",
+                "roomName": "◆部屋タイプ指定なし　喫煙　1名様利用◆",
+                "planId": 3834969,
+                "planName": "★室数限定★ 部屋タイプお任せでお得にステイ♪　～素泊り～",
+                "pointRate": 1,
+                "withDinnerFlag": 0,
+                "dinnerSelectFlag": 0,
+                "withBreakfastFlag": 0,
+                "breakfastSelectFlag": 0,
+                "payment": "1",
+                "reserveUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/IdsCY/?f_no=149164&f_syu=rohs&f_hi1=2025-6-20&f_hi2=2025-6-22&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_camp_id=3834969",
+                "salesformFlag": 0
+              }
+            },
+            {
+              "dailyCharge": {
+                "stayDate": "2025-6-20",
+                "rakutenCharge": 34450,
+                "total": 34450,
+                "chargeFlag": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 147713,
+            "hotelName": "ホテルサンルート銀座",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/pvonD/?f_no=147713",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/vFumt/?f_no=147713&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/WzozX/?noTomariHotel=147713",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=147713",
+            "hotelKanaName": "さんるーとぎんざ",
+            "hotelSpecial": "ゆったり広めのオーバル型バスタブがクチコミ好評！全室に加湿空気清浄機を完備や豊富なアメニティ類も魅力！",
+            "hotelMinCharge": 7840,
+            "latitude": 128413.11,
+            "longitude": 503183.09,
+            "postalCode": "104-0061",
+            "address1": "東京都",
+            "address2": "中央区銀座1-15-11",
+            "telephoneNo": "03-5579-9733",
+            "faxNo": "03-5579-9735",
+            "access": "銀座一丁目駅10番出口徒歩2分、宝町駅Ａ4出口徒歩3分、京橋駅２番出口徒歩5分、有楽町駅京橋口徒歩8分",
+            "parkingInformation": "無し（提携駐車場あり　入庫より24時間2,400円）　詳しくはお問い合わせ下さい。",
+            "nearestStation": "銀座一丁目",
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147713/147713.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/147713.jpg",
+            "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147713/147713_room.jpg",
+            "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/147713.jpg",
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/147713/147713map.gif",
+            "reviewCount": 822,
+            "reviewAverage": 3.96,
+            "userReview": "桜の栞のプレゼントはうれしかったです。化粧水などのアメニティーがあるホテルが多いので、なかったことが少し物足りなかったです。　2025-05-27 08:54:36投稿"
+          }
+        },
+        {
+          "roomInfo": [
+            {
+              "roomBasicInfo": {
+                "roomClass": "sek1",
+                "roomName": "セミダブル【禁煙】 ベッド幅140cm",
+                "planId": 5420572,
+                "planName": "【連泊】～2連泊以上の特別価格～ クチコミ好評価のオーバル型バスタブや豊富なアメニティ類",
+                "pointRate": 1,
+                "withDinnerFlag": 0,
+                "dinnerSelectFlag": 0,
+                "withBreakfastFlag": 0,
+                "breakfastSelectFlag": 0,
+                "payment": "1",
+                "reserveUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/IdsCY/?f_no=147713&f_syu=sek1&f_hi1=2025-6-20&f_hi2=2025-6-22&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_camp_id=5420572",
+                "salesformFlag": 0
+              }
+            },
+            {
+              "dailyCharge": {
+                "stayDate": "2025-6-20",
+                "rakutenCharge": 19550,
+                "total": 19550,
+                "chargeFlag": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 922,
+            "hotelName": "センターホテル東京",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/pvonD/?f_no=922",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/vFumt/?f_no=922&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/WzozX/?noTomariHotel=922",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=922",
+            "hotelKanaName": "せんたーほてる　とうきょう",
+            "hotelSpecial": "全館禁煙　東京駅八重洲北口より徒歩約10分　1階コンビニ直結(営業時間7：00～23：00)",
+            "hotelMinCharge": 5060,
+            "latitude": 128434.1,
+            "longitude": 503206.61,
+            "postalCode": "103-0026",
+            "address1": "東京都",
+            "address2": "中央区日本橋兜町15-13",
+            "telephoneNo": "03-3667-2711",
+            "faxNo": "03-3661-5442",
+            "access": "ＪＲ「東京駅」八重洲北口より徒歩約10分。地下鉄「茅場町駅」、「日本橋駅」より徒歩約5分。",
+            "parkingInformation": "無し　（提携駐車場は2025年6月以降ご利用いただけません)",
+            "nearestStation": "東京",
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/922/922.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/922.jpg",
+            "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/922/922_kan.jpg",
+            "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/922.jpg",
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/922/922map.gif",
+            "reviewCount": 3384,
+            "reviewAverage": 3.37,
+            "userReview": "ウェルカムドリンク付き　2025-05-10 16:02:50投稿"
+          }
+        },
+        {
+          "roomInfo": [
+            {
+              "roomBasicInfo": {
+                "roomClass": "cs17",
+                "roomName": "コーナーシングル【禁煙】",
+                "planId": 6062840,
+                "planName": "【連泊プラン】2泊以上限定！素泊まり",
+                "pointRate": 1,
+                "withDinnerFlag": 0,
+                "dinnerSelectFlag": 0,
+                "withBreakfastFlag": 0,
+                "breakfastSelectFlag": 0,
+                "payment": "1",
+                "reserveUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/IdsCY/?f_no=922&f_syu=cs17&f_hi1=2025-6-20&f_hi2=2025-6-22&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_camp_id=6062840",
+                "salesformFlag": 0
+              }
+            },
+            {
+              "dailyCharge": {
+                "stayDate": "2025-6-20",
+                "rakutenCharge": 15180,
+                "total": 15180,
+                "chargeFlag": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 143288,
+            "hotelName": "アパホテル〈銀座　京橋〉（東京駅八重洲南口）",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/pvonD/?f_no=143288",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/vFumt/?f_no=143288&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/WzozX/?noTomariHotel=143288",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=143288",
+            "hotelKanaName": "あぱほてる　ぎんざ　きょうばし　とうきょうえきやえすみなみぐち",
+            "hotelSpecial": "東京駅に一番近いアパホテル。銀座線「京橋駅」、都営浅草線「宝町駅」複数路線　駅チカのアクセス至便！",
+            "hotelMinCharge": 5600,
+            "latitude": 128418.96,
+            "longitude": 503185.45,
+            "postalCode": "104-0031",
+            "address1": "東京都",
+            "address2": "中央区京橋3-6-7",
+            "telephoneNo": "0570-042-811",
+            "faxNo": "03-5159-5312",
+            "access": "◆メトロ銀座線京橋駅2番出口から徒歩2分◆JR東京駅八重洲南口から徒歩10分◆都営浅草線「宝町駅」A3出口から徒歩１分◆",
+            "parkingInformation": "有り　車椅子使用者専用駐車場1台・機械式駐車場3台（制限あり）　3,000円（税込み／1泊）先着順",
+            "nearestStation": null,
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/143288/143288.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/143288.jpg",
+            "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/143288/143288_kya.jpg",
+            "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/143288.jpg",
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/143288/143288map.gif",
+            "reviewCount": 786,
+            "reviewAverage": 3.97,
+            "userReview": "清潔で快適でした！　2025-05-26 09:34:46投稿"
+          }
+        },
+        {
+          "roomInfo": [
+            {
+              "roomBasicInfo": {
+                "roomClass": "w0k",
+                "roomName": "2階　騒音訳ありルーム　禁煙室",
+                "planId": 5917791,
+                "planName": "♪素泊まり限定訳ありプラン【換気扇等の物音】♪いつもよりお得に泊まれちゃうかも♪",
+                "pointRate": 1,
+                "withDinnerFlag": 0,
+                "dinnerSelectFlag": 0,
+                "withBreakfastFlag": 0,
+                "breakfastSelectFlag": 0,
+                "payment": "1",
+                "reserveUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/IdsCY/?f_no=143288&f_syu=w0k&f_hi1=2025-6-20&f_hi2=2025-6-22&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_camp_id=5917791",
+                "salesformFlag": 0
+              }
+            },
+            {
+              "dailyCharge": {
+                "stayDate": "2025-6-20",
+                "rakutenCharge": 17700,
+                "total": 17700,
+                "chargeFlag": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 109469,
+            "hotelName": "アパホテル〈八丁堀駅南〉",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/pvonD/?f_no=109469",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/vFumt/?f_no=109469&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/WzozX/?noTomariHotel=109469",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=109469",
+            "hotelKanaName": "&#8203;あぱほてる〈はっちょうぼりえきみなみ〉",
+            "hotelSpecial": "★2024年7月客室設備リニューアル　有線LAN・各部屋個別の無線LAN完備でテレワークやリモート会議に最適！！",
+            "hotelMinCharge": 5000,
+            "latitude": 128411.69,
+            "longitude": 503203.1,
+            "postalCode": "104-0041",
+            "address1": "東京都",
+            "address2": "中央区新富1-14-7",
+            "telephoneNo": "0570-043-411",
+            "faxNo": "03-6280-0112",
+            "access": "【八丁堀駅】A3出口から徒歩2分　【新富町駅】5番出口から徒歩5分　【舞浜駅】2駅12分（快速）　【東京駅】1駅2分",
+            "parkingInformation": "駐車場は車椅子使用者専用駐車場1台　到着順・予約不可　1泊（15:00～翌10:00）3,000円",
+            "nearestStation": "八丁堀（東京）",
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109469/109469.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/109469.jpg",
+            "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109469/109469_sin.jpg",
+            "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/109469.jpg",
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/109469/109469map.gif",
+            "reviewCount": 1230,
+            "reviewAverage": 4.03,
+            "userReview": "良くもなく、悪すぎることもなく、\r\n普通。　2025-05-25 22:44:54投稿"
+          }
+        },
+        {
+          "roomInfo": [
+            {
+              "roomBasicInfo": {
+                "roomClass": "s1k",
+                "roomName": "◇ 禁煙室 ◇ シングル",
+                "planId": 5189498,
+                "planName": "【素泊まり・事前決済限定】非接触1秒チェックイン体験プラン【アパは映画もアニメも見放題】",
+                "pointRate": 1,
+                "withDinnerFlag": 0,
+                "dinnerSelectFlag": 0,
+                "withBreakfastFlag": 0,
+                "breakfastSelectFlag": 0,
+                "payment": "2",
+                "reserveUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/IdsCY/?f_no=109469&f_syu=s1k&f_hi1=2025-6-20&f_hi2=2025-6-22&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_camp_id=5189498",
+                "salesformFlag": 0
+              }
+            },
+            {
+              "dailyCharge": {
+                "stayDate": "2025-6-20",
+                "rakutenCharge": 15700,
+                "total": 15700,
+                "chargeFlag": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 178005,
+            "hotelName": "ホテル八重の翠東京",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/pvonD/?f_no=178005",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/vFumt/?f_no=178005&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/WzozX/?noTomariHotel=178005",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=178005",
+            "hotelKanaName": "やえのみどりとうきょう",
+            "hotelSpecial": "３点独立水廻りを採用。最上階の日本庭園が心を和ませます。",
+            "hotelMinCharge": 12750,
+            "latitude": 128426.07,
+            "longitude": 503205.72,
+            "postalCode": "104-0032",
+            "address1": "東京都",
+            "address2": "中央区八丁堀2-13-1",
+            "telephoneNo": "03-6263-2020",
+            "faxNo": "03-6263-2021",
+            "access": "日比谷線八丁堀駅A5a出口より徒歩にて約３分　東京駅八重洲口より徒歩12分。",
+            "parkingInformation": "無し　※詳しくはお問い合わせください。",
+            "nearestStation": "八丁堀（東京）",
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/178005/178005.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/178005.jpg",
+            "roomImageUrl": null,
+            "roomThumbnailUrl": null,
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/178005/178005map.gif",
+            "reviewCount": 580,
+            "reviewAverage": 4.3,
+            "userReview": "ラウンジのウェルカムドリンクがありチェックイン前に荷物を預けた後にゆっくり出来たのが良かったです。お風呂もトイレと別で広いのでゆっくり歩き回った疲れを取れました　2025-05-31 16:48:58投稿"
+          }
+        },
+        {
+          "roomInfo": [
+            {
+              "roomBasicInfo": {
+                "roomClass": "01sa",
+                "roomName": "スタンダードシングル",
+                "planId": 4726439,
+                "planName": "【連泊割引】清掃不要のお客様にオススメ♪ECOでお得に東京ステイ　連泊エコプラン＜素泊まり＞",
+                "pointRate": 1,
+                "withDinnerFlag": 0,
+                "dinnerSelectFlag": 0,
+                "withBreakfastFlag": 0,
+                "breakfastSelectFlag": 0,
+                "payment": "1",
+                "reserveUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/IdsCY/?f_no=178005&f_syu=01sa&f_hi1=2025-6-20&f_hi2=2025-6-22&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_camp_id=4726439",
+                "salesformFlag": 0
+              }
+            },
+            {
+              "dailyCharge": {
+                "stayDate": "2025-6-20",
+                "rakutenCharge": 22000,
+                "total": 22000,
+                "chargeFlag": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 165175,
+            "hotelName": "ホテルインターゲート東京京橋",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/pvonD/?f_no=165175",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/vFumt/?f_no=165175&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/WzozX/?noTomariHotel=165175",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=165175",
+            "hotelKanaName": "いんたーげーととうきょうきょうばし",
+            "hotelSpecial": "駅近◆ソフトドリンクにアルコール、お茶漬けなど、時間帯ごとに楽しめる無料ラウンジサービスが大好評♪1Fにコンビニあり",
+            "hotelMinCharge": 7930,
+            "latitude": 128420.37,
+            "longitude": 503186.61,
+            "postalCode": "104-0031",
+            "address1": "東京都",
+            "address2": "中央区京橋3-7-8",
+            "telephoneNo": "03-5524-2929",
+            "faxNo": "03-5524-2928",
+            "access": "東京メトロ銀座線　京橋駅／都営地下鉄浅草線　宝町駅より徒歩約１分。JR東京駅八重洲南口より徒歩10分",
+            "parkingInformation": "有り　機械式立体駐車場　１８台　２，０００円（税込み／泊）　先着順　車高制限155cm",
+            "nearestStation": "京橋（東京）",
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165175/165175.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/165175.jpg",
+            "roomImageUrl": null,
+            "roomThumbnailUrl": null,
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/165175/165175map.gif",
+            "reviewCount": 634,
+            "reviewAverage": 4.34,
+            "userReview": "リピーターです。\r\n立地が良くて、いつも利用させていただいてます。\r\nまた利用したいです。　2025-05-29 21:10:31投稿"
+          }
+        },
+        {
+          "roomInfo": [
+            {
+              "roomBasicInfo": {
+                "roomClass": "ssan",
+                "roomName": "スタンダードシングルルーム【禁煙】13平米",
+                "planId": 5757994,
+                "planName": "【楽天月末セール】京橋駅・宝町駅より徒歩1分◆充実の無料ラウンジサービス／素泊り",
+                "pointRate": 1,
+                "withDinnerFlag": 0,
+                "dinnerSelectFlag": 0,
+                "withBreakfastFlag": 0,
+                "breakfastSelectFlag": 0,
+                "payment": "1",
+                "reserveUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/IdsCY/?f_no=165175&f_syu=ssan&f_hi1=2025-6-20&f_hi2=2025-6-22&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_camp_id=5757994",
+                "salesformFlag": 0
+              }
+            },
+            {
+              "dailyCharge": {
+                "stayDate": "2025-6-20",
+                "rakutenCharge": 17850,
+                "total": 17850,
+                "chargeFlag": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 40568,
+            "hotelName": "東急ステイ日本橋",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/pvonD/?f_no=40568",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/vFumt/?f_no=40568&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/WzozX/?noTomariHotel=40568",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=40568",
+            "hotelKanaName": "とうきゅう　すてい　にほんばし",
+            "hotelSpecial": "再開発によりビジネスとショッピングが融合した日本橋に位置する昭和通りに面したホテルです。銀座や秋葉原なども至近！",
+            "hotelMinCharge": 5490,
+            "latitude": 128472.35,
+            "longitude": 503202.33,
+            "postalCode": "103-0023",
+            "address1": "東京都",
+            "address2": "中央区日本橋本町4-7-9",
+            "telephoneNo": "03-3231-0109",
+            "faxNo": "03-3231-0112",
+            "access": "JR新日本橋駅8番出口徒歩約1分/神田駅東口徒歩約8分/銀座線三越前駅徒歩約5分/日比谷線小伝馬町駅徒歩約5分",
+            "parkingInformation": "無し　",
+            "nearestStation": "三越前",
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40568/40568.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/40568.jpg",
+            "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40568/40568_kan.jpg",
+            "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/40568.jpg",
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/40568/40568map.gif",
+            "reviewCount": 1931,
+            "reviewAverage": 3.84,
+            "userReview": "母の目の手術後に帰宅が難しい為に選んだホテルでした。フロントの女性スタッフ様、到着時からとても親切にしてくださりありがとうございました。掃除機の埃にもご配慮いただいたりと、本当にホスピタリティのある方…　2025-05-08 10:14:42投稿 \u003Ca href=\"https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=40568\" class=\"3click\"\u003Eつづきはこちら\u003C/a\u003E"
+          }
+        },
+        {
+          "roomInfo": [
+            {
+              "roomBasicInfo": {
+                "roomClass": "ww",
+                "roomName": "モデレートダブル／禁煙・16平米",
+                "planId": 6060966,
+                "planName": "〇【2連泊deお得】全室無料Wi-Fi完備【1名】（素泊）",
+                "pointRate": 1,
+                "withDinnerFlag": 0,
+                "dinnerSelectFlag": 0,
+                "withBreakfastFlag": 0,
+                "breakfastSelectFlag": 0,
+                "payment": "1",
+                "reserveUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/IdsCY/?f_no=40568&f_syu=ww&f_hi1=2025-6-20&f_hi2=2025-6-22&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_camp_id=6060966",
+                "salesformFlag": 0
+              }
+            },
+            {
+              "dailyCharge": {
+                "stayDate": "2025-6-20",
+                "rakutenCharge": 17460,
+                "total": 17460,
+                "chargeFlag": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 158365,
+            "hotelName": "アパホテル〈銀座　新富町駅前北〉",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/pvonD/?f_no=158365",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/vFumt/?f_no=158365&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/WzozX/?noTomariHotel=158365",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=158365",
+            "hotelKanaName": "あぱほてる　ぎんざしんとみちょうえききた",
+            "hotelSpecial": "新富町駅・八丁堀駅・宝町駅の3駅5路線が至近の全室禁煙ホテル！東京駅・銀座・築地も徒歩圏内！八丁堀駅から舞浜まで直通！",
+            "hotelMinCharge": 5600,
+            "latitude": 128411.82,
+            "longitude": 503199.21,
+            "postalCode": "104-0041",
+            "address1": "東京都",
+            "address2": "中央区新富１丁目12番11号",
+            "telephoneNo": "0570-044-411",
+            "faxNo": "03-5117-2712",
+            "access": "新富町駅（3番出口）から徒歩3分、八丁堀駅（A3出口）から徒歩4分、宝町駅（A1出口）から徒歩6分",
+            "parkingInformation": "無し",
+            "nearestStation": "新富町（東京）",
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/158365/158365.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/158365.jpg",
+            "roomImageUrl": null,
+            "roomThumbnailUrl": null,
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/158365/158365map.gif",
+            "reviewCount": 260,
+            "reviewAverage": 4.21,
+            "userReview": "荷物を預かりシステムもある…　2025-05-31 20:04:00投稿 \u003Ca href=\"https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=158365\" class=\"3click\"\u003Eつづきはこちら\u003C/a\u003E"
+          }
+        },
+        {
+          "roomInfo": [
+            {
+              "roomBasicInfo": {
+                "roomClass": "s1k",
+                "roomName": "シングル　全室禁煙",
+                "planId": 5191455,
+                "planName": "【素泊まり・事前決済限定】非接触1秒チェックイン体験プラン！全室禁煙！【アパは映画もアニメも見放題】",
+                "pointRate": 1,
+                "withDinnerFlag": 0,
+                "dinnerSelectFlag": 0,
+                "withBreakfastFlag": 0,
+                "breakfastSelectFlag": 0,
+                "payment": "2",
+                "reserveUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/IdsCY/?f_no=158365&f_syu=s1k&f_hi1=2025-6-20&f_hi2=2025-6-22&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_camp_id=5191455",
+                "salesformFlag": 0
+              }
+            },
+            {
+              "dailyCharge": {
+                "stayDate": "2025-6-20",
+                "rakutenCharge": 14600,
+                "total": 14600,
+                "chargeFlag": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 7342,
+            "hotelName": "神田ステーションホテル",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/pvonD/?f_no=7342",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/vFumt/?f_no=7342&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/WzozX/?noTomariHotel=7342",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=7342",
+            "hotelKanaName": "かんだ　すてーしょんほてる",
+            "hotelSpecial": "東京駅から１駅神田駅南口より徒歩１分とアクセス便利です。全室シモンズベット。",
+            "hotelMinCharge": 8780,
+            "latitude": 128470.76,
+            "longitude": 503185.81,
+            "postalCode": "101-0044",
+            "address1": "東京都",
+            "address2": "千代田区鍛冶町1-4-3",
+            "telephoneNo": "03-3256-3221",
+            "faxNo": "03-3256-4862",
+            "access": "ＪＲ東京駅から１駅、山ノ手線・中央線神田駅南口下車徒歩1分。JR総武線新日本橋駅・地下鉄銀座線三越前駅よりも徒歩5分。",
+            "parkingInformation": "無",
+            "nearestStation": "神田（東京）",
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7342/7342.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/7342.jpg",
+            "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7342/7342_ks.jpg",
+            "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/7342.jpg",
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/7342/7342map.gif",
+            "reviewCount": 2430,
+            "reviewAverage": 3.29,
+            "userReview": "宿泊税は現地で別会計のため、領収書が複数にかるのが面倒。\r\n設備に関しても良い点が特に無い。\r\n本当に素泊まりするためだけのホテルだが、だとしたら高すぎる。　2025-04-23 19:01:03投稿"
+          }
+        },
+        {
+          "roomInfo": [
+            {
+              "roomBasicInfo": {
+                "roomClass": "s",
+                "roomName": "★喫煙★シングル",
+                "planId": 5674882,
+                "planName": "【2連泊以上でお得！】清掃なしのエコプラン！神田駅1分の好立地ホテルでお得に快適ステイ＜素泊まり＞",
+                "pointRate": 1,
+                "withDinnerFlag": 0,
+                "dinnerSelectFlag": 0,
+                "withBreakfastFlag": 0,
+                "breakfastSelectFlag": 0,
+                "payment": "2",
+                "reserveUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/IdsCY/?f_no=7342&f_syu=s&f_hi1=2025-6-20&f_hi2=2025-6-22&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_camp_id=5674882",
+                "salesformFlag": 0
+              }
+            },
+            {
+              "dailyCharge": {
+                "stayDate": "2025-6-20",
+                "rakutenCharge": 12420,
+                "total": 12420,
+                "chargeFlag": 1
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 178610,
+            "hotelName": "ダイワロイネットホテル東京京橋　ＰＲＥＭＩＥＲ",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/pvonD/?f_no=178610",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/vFumt/?f_no=178610&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/WzozX/?noTomariHotel=178610",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=178610",
+            "hotelKanaName": "だいわろいねっとほてるとうきょうきょうばし",
+            "hotelSpecial": "東京メトロ「京橋駅」より徒歩約1分。「東京駅」や銀座も徒歩圏内の好立地。1階コンビニありで便利。バス・トイレ別で快適",
+            "hotelMinCharge": 10340,
+            "latitude": 128427.06,
+            "longitude": 503186.48,
+            "postalCode": "104-0031",
+            "address1": "東京都",
+            "address2": "中央区京橋2-8-20",
+            "telephoneNo": "03-5579-5850",
+            "faxNo": "03-5579-5851",
+            "access": "東京メトロ銀座線「京橋駅」6番出口より徒歩約1分。JR「東京駅」八重洲南口から徒歩約7分。「日本橋駅」や銀座も徒歩圏内。",
+            "parkingInformation": "24台（内ハイルーフ8台）1泊（14時～翌11時）2,000円税込／先着順／車高2.0m以下",
+            "nearestStation": "京橋（東京）",
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/178610/178610.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/178610.jpg",
+            "roomImageUrl": null,
+            "roomThumbnailUrl": null,
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/178610/178610map.gif",
+            "reviewCount": 614,
+            "reviewAverage": 4.27,
+            "userReview": "地下鉄から出て目の前にホテルがあり\r\n大変便利でした。　2025-03-09 12:04:24投稿"
+          }
+        },
+        {
+          "roomInfo": [
+            {
+              "roomBasicInfo": {
+                "roomClass": "roh1",
+                "roomName": "【禁煙】部屋タイプおまかせ（指定不可）",
+                "planId": 6162291,
+                "planName": "【期間限定】タイムセールプラン【素泊まり】",
+                "pointRate": 1,
+                "withDinnerFlag": 0,
+                "dinnerSelectFlag": 0,
+                "withBreakfastFlag": 0,
+                "breakfastSelectFlag": 0,
+                "payment": "1",
+                "reserveUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/IdsCY/?f_no=178610&f_syu=roh1&f_hi1=2025-6-20&f_hi2=2025-6-22&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_camp_id=6162291",
+                "salesformFlag": 0
+              }
+            },
+            {
+              "dailyCharge": {
+                "stayDate": "2025-6-20",
+                "rakutenCharge": 30780,
+                "total": 30780,
+                "chargeFlag": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 180271,
+            "hotelName": "ホテル　かずさや",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/pvonD/?f_no=180271",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/vFumt/?f_no=180271&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/WzozX/?noTomariHotel=180271",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=180271",
+            "hotelKanaName": "かずさや",
+            "hotelSpecial": "和モダンな大浴場完備！新日本橋駅徒歩１分！こだわりの和朝食がおすすめ！創業130年老舗ホテルが2020年新築オープン！",
+            "hotelMinCharge": 8165,
+            "latitude": 128471.64,
+            "longitude": 503200.18,
+            "postalCode": "103-0023",
+            "address1": "東京都",
+            "address2": "中央区日本橋本町4-7-15",
+            "telephoneNo": "03-3241-1045",
+            "faxNo": "03-3241-1077",
+            "access": "JR総武快速線・新日本橋駅より徒歩約１分。JR山手線・神田駅より徒歩約5分。東京メトロ銀座線・三越前駅より徒歩約5分。",
+            "parkingInformation": "■事前予約制・有料１2台■車両制限：高さ2.0m×全幅2.05m×全長5.3m・車重2300㎏以下",
+            "nearestStation": "新日本橋",
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/180271/180271.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/180271.jpg",
+            "roomImageUrl": null,
+            "roomThumbnailUrl": null,
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/180271/180271map.gif",
+            "reviewCount": 515,
+            "reviewAverage": 4.41,
+            "userReview": "フロント受付もスムーズで、朝食のセレクトも、「和食がお薦めです。」と迷う地事なくおっし…　2025-05-25 15:55:15投稿 \u003Ca href=\"https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=180271\" class=\"3click\"\u003Eつづきはこちら\u003C/a\u003E"
+          }
+        },
+        {
+          "roomInfo": [
+            {
+              "roomBasicInfo": {
+                "roomClass": "005",
+                "roomName": "【全室禁煙】ダブル",
+                "planId": 4785441,
+                "planName": "【連泊プラン】☆★2泊以上でお得にステイ★☆(素泊まり)",
+                "pointRate": 1,
+                "withDinnerFlag": 0,
+                "dinnerSelectFlag": 0,
+                "withBreakfastFlag": 0,
+                "breakfastSelectFlag": 0,
+                "payment": "1",
+                "reserveUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/IdsCY/?f_no=180271&f_syu=005&f_hi1=2025-6-20&f_hi2=2025-6-22&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_camp_id=4785441",
+                "salesformFlag": 0
+              }
+            },
+            {
+              "dailyCharge": {
+                "stayDate": "2025-6-20",
+                "rakutenCharge": 26140,
+                "total": 26140,
+                "chargeFlag": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 76496,
+            "hotelName": "ホテル龍名館東京",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/pvonD/?f_no=76496",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/vFumt/?f_no=76496&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/WzozX/?noTomariHotel=76496",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=76496",
+            "hotelKanaName": "りゅうめいかんとうきょう",
+            "hotelSpecial": "東京駅八重洲北口から徒歩3分。和食料理人の技術が込められた贅沢な朝食もお楽しみくださいませ。",
+            "hotelMinCharge": 10000,
+            "latitude": 128447.55,
+            "longitude": 503187.82,
+            "postalCode": "103-0028",
+            "address1": "東京都",
+            "address2": "中央区八重洲1-3-22",
+            "telephoneNo": "03-3271-0971",
+            "faxNo": "03-3271-0977",
+            "access": "ＪＲ東京駅 八重洲北口から徒歩３分。東京メトロ銀座線・東西線 日本橋駅A３出口より徒歩１分。",
+            "parkingInformation": "有り　３４台　１２００円（税込み／泊）　要予約",
+            "nearestStation": "東京",
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76496/76496.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/76496.jpg",
+            "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76496/76496_sin.jpg",
+            "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/76496.jpg",
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/76496/76496map.gif",
+            "reviewCount": 1780,
+            "reviewAverage": 4.76,
+            "userReview": "湯船はありませんが、シャワーが3種類あり、十分疲れはとることがで…　2025-05-20 18:41:34投稿 \u003Ca href=\"https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=76496\" class=\"3click\"\u003Eつづきはこちら\u003C/a\u003E"
+          }
+        },
+        {
+          "roomInfo": [
+            {
+              "roomBasicInfo": {
+                "roomClass": "jcn1",
+                "roomName": "【禁煙】フォーラスダブルC-JAPANESE MODERN-",
+                "planId": 6045273,
+                "planName": "【2連泊以上でお得に宿泊】【事前カード決済限定】連泊プラン（素泊まり）",
+                "pointRate": 1,
+                "withDinnerFlag": 0,
+                "dinnerSelectFlag": 0,
+                "withBreakfastFlag": 0,
+                "breakfastSelectFlag": 0,
+                "payment": "2",
+                "reserveUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/IdsCY/?f_no=76496&f_syu=jcn1&f_hi1=2025-6-20&f_hi2=2025-6-22&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_camp_id=6045273",
+                "salesformFlag": 0
+              }
+            },
+            {
+              "dailyCharge": {
+                "stayDate": "2025-6-20",
+                "rakutenCharge": 41500,
+                "total": 41500,
+                "chargeFlag": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 28576,
+            "hotelName": "帝国ホテル東京",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/pvonD/?f_no=28576",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/vFumt/?f_no=28576&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/WzozX/?noTomariHotel=28576",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=28576",
+            "hotelKanaName": "ていこくほてる　とうきょう",
+            "hotelSpecial": "1890年開業以来変わらぬ「おもてなしの心」で皆様の大切な日をお手伝いさせていただきます。",
+            "hotelMinCharge": 28900,
+            "latitude": 128410.21,
+            "longitude": 503140.93,
+            "postalCode": "100-8558",
+            "address1": "東京都",
+            "address2": "千代田区内幸町1-1-1",
+            "telephoneNo": "03-3504-1111",
+            "faxNo": "03-3581-9146",
+            "access": "東京駅～タクシーで約５分／【地下鉄】日比谷駅～徒歩３分、銀座駅～徒歩５分／【ＪＲ】有楽町駅～徒歩５分、新橋駅～徒歩７分",
+            "parkingInformation": "425台先着順　料金：30分600円、1日最大12,000円",
+            "nearestStation": "有楽町",
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28576/28576.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/28576.jpg",
+            "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28576/28576_kan.jpg",
+            "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/28576.jpg",
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/28576/28576map.gif",
+            "reviewCount": 2406,
+            "reviewAverage": 4.7,
+            "userReview": "従業員の方々は全て気持ち良く、充実した旅行になりま…　2025-05-31 17:37:12投稿 \u003Ca href=\"https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=28576\" class=\"3click\"\u003Eつづきはこちら\u003C/a\u003E"
+          }
+        },
+        {
+          "roomInfo": [
+            {
+              "roomBasicInfo": {
+                "roomClass": "hflr-sdt",
+                "roomName": "＜タワー館＞ハイフロア スタンダード ツイン　禁煙",
+                "planId": 6225334,
+                "planName": " 【タワー館／26～31階確約】ベストレート（室料のみ）",
+                "pointRate": 1,
+                "withDinnerFlag": 0,
+                "dinnerSelectFlag": 0,
+                "withBreakfastFlag": 0,
+                "breakfastSelectFlag": 0,
+                "payment": "1",
+                "reserveUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/IdsCY/?f_no=28576&f_syu=hflr-sdt&f_hi1=2025-6-20&f_hi2=2025-6-22&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_camp_id=6225334",
+                "salesformFlag": 0
+              }
+            },
+            {
+              "dailyCharge": {
+                "stayDate": "2025-6-20",
+                "rakutenCharge": 65000,
+                "total": 65000,
+                "chargeFlag": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 56634,
+            "hotelName": "ホテルメトロポリタン丸の内",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/pvonD/?f_no=56634",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/vFumt/?f_no=56634&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/WzozX/?noTomariHotel=56634",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=56634",
+            "hotelKanaName": "めとろぽりたんまるのうち",
+            "hotelSpecial": "JR東京駅日本橋口直結～東京上空で上質なホテルステイを～贅沢で静かな安らぎの時間を。",
+            "hotelMinCharge": 16450,
+            "latitude": 128450.21,
+            "longitude": 503178.39,
+            "postalCode": "100-0005",
+            "address1": "東京都",
+            "address2": "千代田区丸の内1-7-12 サピアタワー27階～34階",
+            "telephoneNo": "03-3211-2233",
+            "faxNo": "03-3211-2244",
+            "access": "ＪＲ東京駅日本橋口直結／八重洲北口改札より徒歩２分／東京メトロ東西線大手町駅より徒歩１分",
+            "parkingInformation": "サピアタワー共用地下駐車場　1泊 2000円　東京駅日本橋口ロータリー内入口より",
+            "nearestStation": "東京",
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56634/56634.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/56634.jpg",
+            "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56634/56634_ro.jpg",
+            "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/56634.jpg",
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/56634/56634map.gif",
+            "reviewCount": 2926,
+            "reviewAverage": 4.49,
+            "userReview": "妻との東京観光に利用しました。アクセスも抜群、食事もおいしく快適な旅となりました。\r\n　2025-05-21 16:42:44投稿"
+          }
+        },
+        {
+          "roomInfo": [
+            {
+              "roomBasicInfo": {
+                "roomClass": "uzt",
+                "roomName": "-UTSUROI-55平米 コーナースイートツイン",
+                "planId": 5955981,
+                "planName": "【リニューアルルーム】価値あるうつろいのときを共に”UTSUROI”ルーム（食事なし)",
+                "pointRate": 1,
+                "withDinnerFlag": 0,
+                "dinnerSelectFlag": 0,
+                "withBreakfastFlag": 0,
+                "breakfastSelectFlag": 0,
+                "payment": "1",
+                "reserveUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/IdsCY/?f_no=56634&f_syu=uzt&f_hi1=2025-6-20&f_hi2=2025-6-22&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_camp_id=5955981",
+                "salesformFlag": 0
+              }
+            },
+            {
+              "dailyCharge": {
+                "stayDate": "2025-6-20",
+                "rakutenCharge": 198800,
+                "total": 198800,
+                "chargeFlag": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 134922,
+            "hotelName": "相鉄フレッサイン　東京京橋",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/pvonD/?f_no=134922",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/vFumt/?f_no=134922&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/WzozX/?noTomariHotel=134922",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=134922",
+            "hotelKanaName": "そうてつふれっさいん　とうきょうきょうばし",
+            "hotelSpecial": "JR東京駅より徒歩8分。地下鉄京橋駅・宝町駅からは、徒歩約2分▽羽田空港から宝町駅まで直通！",
+            "hotelMinCharge": 7155,
+            "latitude": 128423.44,
+            "longitude": 503189.99,
+            "postalCode": "104-0031",
+            "address1": "東京都",
+            "address2": "中央区京橋2-11-1",
+            "telephoneNo": "03-5250-2031",
+            "faxNo": "03-5250-2034",
+            "access": "JR東京駅八重洲中央口・八重洲南口より徒歩8分。地下鉄京橋駅・宝町駅からは、徒歩約2分▽羽田空港から宝町駅まで直通！",
+            "parkingInformation": "専用駐車場無。近隣駐車場（有料）をご案内",
+            "nearestStation": "東京",
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/134922/134922.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/134922.jpg",
+            "roomImageUrl": null,
+            "roomThumbnailUrl": null,
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/134922/134922map.gif",
+            "reviewCount": 1099,
+            "reviewAverage": 3.87,
+            "userReview": "よい　2025-03-02 01:19:12投稿"
+          }
+        },
+        {
+          "roomInfo": [
+            {
+              "roomBasicInfo": {
+                "roomClass": "s1",
+                "roomName": "シングル【喫煙】[1名利用]",
+                "planId": 6095884,
+                "planName": "【楽天月末セール】12時レイトアウト付きプラン☆＜食事なし＞【キャッシュレス決済】",
+                "pointRate": 1,
+                "withDinnerFlag": 0,
+                "dinnerSelectFlag": 0,
+                "withBreakfastFlag": 0,
+                "breakfastSelectFlag": 0,
+                "payment": "1",
+                "reserveUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/IdsCY/?f_no=134922&f_syu=s1&f_hi1=2025-6-20&f_hi2=2025-6-22&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_camp_id=6095884",
+                "salesformFlag": 0
+              }
+            },
+            {
+              "dailyCharge": {
+                "stayDate": "2025-6-20",
+                "rakutenCharge": 18540,
+                "total": 18540,
+                "chargeFlag": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 5562,
+            "hotelName": "丸ノ内ホテル",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/pvonD/?f_no=5562",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/vFumt/?f_no=5562&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/WzozX/?noTomariHotel=5562",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=5562",
+            "hotelKanaName": "まるのうち",
+            "hotelSpecial": "「世界のお客様へ わが家のおもてなしを」をコンセプトに、温もりあるサービスと溢れる笑顔で皆様をお迎えいたします。",
+            "hotelMinCharge": 26600,
+            "latitude": 128448.67,
+            "longitude": 503171.74,
+            "postalCode": "100-0005",
+            "address1": "東京都",
+            "address2": "千代田区丸の内1-6-3",
+            "telephoneNo": "03-3217-1111",
+            "faxNo": "03-3217-1115",
+            "access": "JR東京駅丸の内北口より徒歩約1分、東京メトロ各線東京駅/大手町駅より地下通路直結。",
+            "parkingInformation": "B２FとB３Fにある「丸の内パークイン」（オアゾ駐車場）をご利用ください。（有料）",
+            "nearestStation": "東京",
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5562/5562.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/5562.jpg",
+            "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5562/5562_rm.jpg",
+            "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/5562.jpg",
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5562/5562map.gif",
+            "reviewCount": 962,
+            "reviewAverage": 4.65,
+            "userReview": "駅からすぐですので取り…　2025-05-13 09:03:02投稿 \u003Ca href=\"https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=5562\" class=\"3click\"\u003Eつづきはこちら\u003C/a\u003E"
+          }
+        },
+        {
+          "roomInfo": [
+            {
+              "roomBasicInfo": {
+                "roomClass": "md2024",
+                "roomName": "モデレートダブル（24.8平米）",
+                "planId": 6002091,
+                "planName": "【スタンダード】東京・丸の内でくつろぐ（食事なし）",
+                "pointRate": 1,
+                "withDinnerFlag": 0,
+                "dinnerSelectFlag": 0,
+                "withBreakfastFlag": 0,
+                "breakfastSelectFlag": 0,
+                "payment": "1",
+                "reserveUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/IdsCY/?f_no=5562&f_syu=md2024&f_hi1=2025-6-20&f_hi2=2025-6-22&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_camp_id=6002091",
+                "salesformFlag": 0
+              }
+            },
+            {
+              "dailyCharge": {
+                "stayDate": "2025-6-20",
+                "rakutenCharge": 57000,
+                "total": 57000,
+                "chargeFlag": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 168235,
+            "hotelName": "ホテルリブマックス東京新富町",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/pvonD/?f_no=168235",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/vFumt/?f_no=168235&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/WzozX/?noTomariHotel=168235",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=168235",
+            "hotelKanaName": "りぶまっくすとうきょうしんとみちょう",
+            "hotelSpecial": "2018年新築オープン！新富町駅より徒歩1分の好立地♪全室シモンズベッド完備！",
+            "hotelMinCharge": 5185,
+            "latitude": 128408.53,
+            "longitude": 503196.29,
+            "postalCode": "104-0041",
+            "address1": "東京都",
+            "address2": "中央区新富1-7-12",
+            "telephoneNo": "03-5566-2300",
+            "faxNo": "03-5566-2301",
+            "access": "有楽町線　新富町駅3番出口より徒歩にて約1分",
+            "parkingInformation": "近隣に有料パーキングあり　※満車の場合はご容赦下さい。",
+            "nearestStation": "新富町（東京）",
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/168235/168235.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/168235.jpg",
+            "roomImageUrl": null,
+            "roomThumbnailUrl": null,
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/168235/168235map.gif",
+            "reviewCount": 221,
+            "reviewAverage": 3.17,
+            "userReview": "大人2名で抑えたはずなのに、アメニティ、タオル類が1名分しか用意されてなかった事が凄く残念でした　2024-11-27 11:13:36投稿"
+          }
+        },
+        {
+          "roomInfo": [
+            {
+              "roomBasicInfo": {
+                "roomClass": "sb-sr",
+                "roomName": "★シングルルーム★喫煙★セミダブルベッド",
+                "planId": 5741464,
+                "planName": "【リブ得セール】～15％OFF～　東京メトロ有楽町線「新富町駅」徒歩1分　《素泊り》",
+                "pointRate": 1,
+                "withDinnerFlag": 0,
+                "dinnerSelectFlag": 0,
+                "withBreakfastFlag": 0,
+                "breakfastSelectFlag": 0,
+                "payment": "1",
+                "reserveUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/IdsCY/?f_no=168235&f_syu=sb-sr&f_hi1=2025-6-20&f_hi2=2025-6-22&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_camp_id=5741464",
+                "salesformFlag": 0
+              }
+            },
+            {
+              "dailyCharge": {
+                "stayDate": "2025-6-20",
+                "rakutenCharge": 15640,
+                "total": 15640,
+                "chargeFlag": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 144960,
+            "hotelName": "アパホテル〈銀座　宝町〉（東京駅八重洲南口）",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/pvonD/?f_no=144960",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/vFumt/?f_no=144960&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/WzozX/?noTomariHotel=144960",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=144960",
+            "hotelKanaName": "あぱほてる　ぎんざ　たからちょう　とうきょうえきやえすみなみぐち",
+            "hotelSpecial": "◆銀座・東京駅・徒歩圏内◆駅前立地で複数路線が利用可能◆羽田・成田へは乗換なし◆",
+            "hotelMinCharge": 5000,
+            "latitude": 128416.08,
+            "longitude": 503189.76,
+            "postalCode": "104-0031",
+            "address1": "東京都",
+            "address2": "中央区京橋3-11-2",
+            "telephoneNo": "0570-042-911",
+            "faxNo": "03-5524-3912",
+            "access": "都営地下鉄浅草線宝町駅Ａ1出口から徒歩１分◆東京駅八重洲南口から徒歩12分◆グループホテルの〈銀座京橋〉から徒歩4分◆",
+            "parkingInformation": "無し ※近隣のコインパーキングをご案内しております。",
+            "nearestStation": "宝町（東京）",
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/144960/144960.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/144960.jpg",
+            "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/144960/144960_kya.jpg",
+            "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/144960.jpg",
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/144960/144960map.gif",
+            "reviewCount": 392,
+            "reviewAverage": 3.94,
+            "userReview": "外部の車輌のクラクション等は響くがそこまで気にならないレベル。\r\n隣の部屋の音は全く気にならない。　2025-05-30 16:29:34投稿"
+          }
+        },
+        {
+          "roomInfo": [
+            {
+              "roomBasicInfo": {
+                "roomClass": "s1k",
+                "roomName": "シングル□禁煙室□",
+                "planId": 5187396,
+                "planName": "【素泊まり・事前決済限定】非接触1秒チェックイン体験プラン！",
+                "pointRate": 1,
+                "withDinnerFlag": 0,
+                "dinnerSelectFlag": 0,
+                "withBreakfastFlag": 0,
+                "breakfastSelectFlag": 0,
+                "payment": "2",
+                "reserveUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/IdsCY/?f_no=144960&f_syu=s1k&f_hi1=2025-6-20&f_hi2=2025-6-22&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_camp_id=5187396",
+                "salesformFlag": 0
+              }
+            },
+            {
+              "dailyCharge": {
+                "stayDate": "2025-6-20",
+                "rakutenCharge": 16800,
+                "total": 16800,
+                "chargeFlag": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 1990,
+            "hotelName": "スマイルホテル日本橋三越前",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/pvonD/?f_no=1990",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/vFumt/?f_no=1990&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/WzozX/?noTomariHotel=1990",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=1990",
+            "hotelKanaName": "すまいるほてるにほんばしみつこしまえ",
+            "hotelSpecial": "「日本橋三越本店」から徒歩２分！３駅５線が利用できるアクセス＆全室セミダブルベッド＆有線ＬＡＮ完備♪",
+            "hotelMinCharge": 4680,
+            "latitude": 128458.75,
+            "longitude": 503206.43,
+            "postalCode": "103-0023",
+            "address1": "東京都",
+            "address2": "中央区日本橋本町1-4-14",
+            "telephoneNo": "03-3231-1070",
+            "faxNo": "03-3231-1081",
+            "access": "～３駅５線が利用できる抜群のアクセス～★三越駅前から徒歩２分★新日本橋駅から徒歩５分★日本橋駅から徒歩７分★",
+            "parkingInformation": "有り　1台　２1００円（税込） 予約制",
+            "nearestStation": "三越前",
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1990/1990.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/1990.jpg",
+            "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1990/1990_room.jpg",
+            "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/1990.jpg",
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/1990/1990map.gif",
+            "reviewCount": 1443,
+            "reviewAverage": 3.77,
+            "userReview": "東京駅から近いので立地条件が良く\r\n便利です。\r\nいつも利用させて頂いてます。\r\nホテル方もご対応が良いです。　2025-05-02 11:30:20投稿"
+          }
+        },
+        {
+          "roomInfo": [
+            {
+              "roomBasicInfo": {
+                "roomClass": "ana",
+                "roomName": "喫煙シングルルーム★120ｃｍ幅セミダブルベット完備★",
+                "planId": 2355028,
+                "planName": "【ECOしましょ！】清掃不要！お泊まりセット持参で連泊エコプラン（素泊まり）",
+                "pointRate": 1,
+                "withDinnerFlag": 0,
+                "dinnerSelectFlag": 0,
+                "withBreakfastFlag": 0,
+                "breakfastSelectFlag": 0,
+                "payment": "1",
+                "reserveUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/IdsCY/?f_no=1990&f_syu=ana&f_hi1=2025-6-20&f_hi2=2025-6-22&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_camp_id=2355028",
+                "salesformFlag": 0
+              }
+            },
+            {
+              "dailyCharge": {
+                "stayDate": "2025-6-20",
+                "rakutenCharge": 14690,
+                "total": 14690,
+                "chargeFlag": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 151505,
+            "hotelName": "三井ガーデンホテル京橋",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/pvonD/?f_no=151505",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/vFumt/?f_no=151505&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/WzozX/?noTomariHotel=151505",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=151505",
+            "hotelKanaName": "みついがーでんほてるきょうばし",
+            "hotelSpecial": "東京駅より徒歩5分、京橋駅より徒歩2分という好立地！銀座・日本橋へも徒歩圏内です。 ",
+            "hotelMinCharge": 13700,
+            "latitude": 128430.68,
+            "longitude": 503186.44,
+            "postalCode": "104-0031",
+            "address1": "東京都",
+            "address2": "中央区京橋1-3-6",
+            "telephoneNo": "03-3231-3131",
+            "faxNo": "03-3276-3111",
+            "access": "JR東京駅八重洲中央口徒歩5分",
+            "parkingInformation": "※ホテルには駐車場はございません。",
+            "nearestStation": "東京",
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/151505/151505.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/151505.jpg",
+            "roomImageUrl": null,
+            "roomThumbnailUrl": null,
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/151505/151505map.gif",
+            "reviewCount": 763,
+            "reviewAverage": 4.29,
+            "userReview": "インバウンドの方が多かったですが、ホテルの格式の良さで皆様礼儀正しい旅行客で日本に居ながら\r\n海外旅行をしたかのようでした。\r\nいつも通りそば殻枕を用意していただき、快適な睡眠を得ることが出来ました。　2025-05-06 16:50:13投稿"
+          }
+        },
+        {
+          "roomInfo": [
+            {
+              "roomBasicInfo": {
+                "roomClass": "25cdn",
+                "roomName": "スタンダードダブル",
+                "planId": 6136303,
+                "planName": "【楽天月末セール】シンプルステイ＜素泊り＞",
+                "pointRate": 1,
+                "withDinnerFlag": 0,
+                "dinnerSelectFlag": 0,
+                "withBreakfastFlag": 0,
+                "breakfastSelectFlag": 0,
+                "payment": "1",
+                "reserveUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/IdsCY/?f_no=151505&f_syu=25cdn&f_hi1=2025-6-20&f_hi2=2025-6-22&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_camp_id=6136303",
+                "salesformFlag": 0
+              }
+            },
+            {
+              "dailyCharge": {
+                "stayDate": "2025-6-20",
+                "rakutenCharge": 30900,
+                "total": 30900,
+                "chargeFlag": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 162965,
+            "hotelName": "ホテルＳＵＩ銀座京橋ｂｙＡＢＥＳＴ",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/pvonD/?f_no=162965",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/vFumt/?f_no=162965&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/WzozX/?noTomariHotel=162965",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=162965",
+            "hotelKanaName": "あべすとすいぎんざきょうばし",
+            "hotelSpecial": "☆☆2021年11月リブランドオープン☆☆ハッピーアワー実施中♪▼全室Wi－Fi、VOD完備▼",
+            "hotelMinCharge": 5600,
+            "latitude": 128418.32,
+            "longitude": 503187.37,
+            "postalCode": "104-0031",
+            "address1": "東京都",
+            "address2": "中央区京橋3-9-1",
+            "telephoneNo": "03-3563-9933",
+            "faxNo": "03-3563-9934",
+            "access": "都営浅草線　『宝町』駅A３出口から徒歩30秒！駅/銀座線　『京橋』駅より徒歩２分/『東京』駅より徒歩12分",
+            "parkingInformation": "無し",
+            "nearestStation": "宝町（東京）",
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/162965/162965.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/162965.jpg",
+            "roomImageUrl": null,
+            "roomThumbnailUrl": null,
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/162965/162965map.gif",
+            "reviewCount": 375,
+            "reviewAverage": 3.89,
+            "userReview": "室内の温度調節が極端で、空調をつけないと暑すぎる、つけると寒すぎる上、空調の音もうるさく、カーテンも2重になっていないので、朝五時になると部屋が明るくなってしまい、睡眠の妨げになってしまいました。　2025-05-22 10:57:00投稿"
+          }
+        },
+        {
+          "roomInfo": [
+            {
+              "roomBasicInfo": {
+                "roomClass": "01",
+                "roomName": "禁煙シングル◆ユニットバスタイプ◆",
+                "planId": 3992006,
+                "planName": "＜会社設立２０周年記念特別企画！「５％割引！」＞＼感謝の気持ちを込めた特別プラン／　☆素泊まり",
+                "pointRate": 1,
+                "withDinnerFlag": 0,
+                "dinnerSelectFlag": 0,
+                "withBreakfastFlag": 0,
+                "breakfastSelectFlag": 0,
+                "payment": "1",
+                "reserveUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/IdsCY/?f_no=162965&f_syu=01&f_hi1=2025-6-20&f_hi2=2025-6-22&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_camp_id=3992006",
+                "salesformFlag": 0
+              }
+            },
+            {
+              "dailyCharge": {
+                "stayDate": "2025-6-20",
+                "rakutenCharge": 17670,
+                "total": 17670,
+                "chargeFlag": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 183323,
+            "hotelName": "ホテル　モンテ　エルマーナ東京",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/pvonD/?f_no=183323",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/vFumt/?f_no=183323&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/WzozX/?noTomariHotel=183323",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=183323",
+            "hotelKanaName": "ほてる　もんて　えるまーなとうきょう",
+            "hotelSpecial": "ホテルモントレのブランド2022年7月グランドオープン。東京駅八重洲中央口から徒歩3分。全室WiFi、スマートテレビ完備",
+            "hotelMinCharge": 12000,
+            "latitude": 128437.12,
+            "longitude": 503186.88,
+            "postalCode": "103-0027",
+            "address1": "東京都",
+            "address2": "中央区日本橋3-3-15",
+            "telephoneNo": "03-3274-7111",
+            "faxNo": "03-3274-7115",
+            "access": "JR東京駅八重洲中央口より徒歩3分。東京メトロ・都営地下鉄「日本橋駅」より徒歩４分。",
+            "parkingInformation": "有：1泊3,000円（台数、サイズに制限がございます。）完全予約制  必ず直接お電話下さい｡",
+            "nearestStation": "東京",
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183323/183323.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/183323.jpg",
+            "roomImageUrl": null,
+            "roomThumbnailUrl": null,
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183323/183323map.gif",
+            "reviewCount": 75,
+            "reviewAverage": 4.64,
+            "userReview": "…　2025-04-17 19:42:42投稿 \u003Ca href=\"https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=183323\" class=\"3click\"\u003Eつづきはこちら\u003C/a\u003E"
+          }
+        },
+        {
+          "roomInfo": [
+            {
+              "roomBasicInfo": {
+                "roomClass": "sa",
+                "roomName": "シングルルーム　禁煙",
+                "planId": 5408390,
+                "planName": "連泊プラン＜素泊り＞",
+                "pointRate": 1,
+                "withDinnerFlag": 0,
+                "dinnerSelectFlag": 0,
+                "withBreakfastFlag": 0,
+                "breakfastSelectFlag": 0,
+                "payment": "1",
+                "reserveUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/IdsCY/?f_no=183323&f_syu=sa&f_hi1=2025-6-20&f_hi2=2025-6-22&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_camp_id=5408390",
+                "salesformFlag": 0
+              }
+            },
+            {
+              "dailyCharge": {
+                "stayDate": "2025-6-20",
+                "rakutenCharge": 32300,
+                "total": 32300,
+                "chargeFlag": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 168198,
+            "hotelName": "ザ・スクエアホテル銀座",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/pvonD/?f_no=168198",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/vFumt/?f_no=168198&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/WzozX/?noTomariHotel=168198",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=168198",
+            "hotelKanaName": "ざ　すくえあほてるぎんざ",
+            "hotelSpecial": "◆疲れを癒すモダンな大浴場完備＆フィットネスジム完備◆「銀座一丁目駅」11番出口より徒歩1分◆お得なクーポン発行中",
+            "hotelMinCharge": 8220,
+            "latitude": 128409.42,
+            "longitude": 503180.31,
+            "postalCode": "104-0061",
+            "address1": "東京都",
+            "address2": "中央区銀座2-11-6",
+            "telephoneNo": "03-3544-6811",
+            "faxNo": "03-3543-0801",
+            "access": "■「銀座一丁目」駅11番出口（7:00～22:00）徒歩1分■「東銀座」駅A2出口徒歩5分■「有楽町」駅京橋口徒歩8分",
+            "parkingInformation": "無し",
+            "nearestStation": "銀座一丁目",
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/168198/168198.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/168198.jpg",
+            "roomImageUrl": null,
+            "roomThumbnailUrl": null,
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/168198/168198map.gif",
+            "reviewCount": 233,
+            "reviewAverage": 4.29,
+            "userReview": "駅からのアクセスも良く、部屋もベッドも広くて快適でした。　2025-03-07 11:26:16投稿"
+          }
+        },
+        {
+          "roomInfo": [
+            {
+              "roomBasicInfo": {
+                "roomClass": "dmo",
+                "roomName": "【禁煙】モデレートダブル",
+                "planId": 5465418,
+                "planName": "【楽天月末セール】スタンダードプラン 《 素泊り 》",
+                "pointRate": 1,
+                "withDinnerFlag": 0,
+                "dinnerSelectFlag": 0,
+                "withBreakfastFlag": 0,
+                "breakfastSelectFlag": 0,
+                "payment": "1",
+                "reserveUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/IdsCY/?f_no=168198&f_syu=dmo&f_hi1=2025-6-20&f_hi2=2025-6-22&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_camp_id=5465418",
+                "salesformFlag": 0
+              }
+            },
+            {
+              "dailyCharge": {
+                "stayDate": "2025-6-20",
+                "rakutenCharge": 25470,
+                "total": 25470,
+                "chargeFlag": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 166074,
+            "hotelName": "三井ガーデンホテル大手町",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/pvonD/?f_no=166074",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/vFumt/?f_no=166074&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/WzozX/?noTomariHotel=166074",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=166074",
+            "hotelKanaName": "みついがーでんほてるおおてまち",
+            "hotelSpecial": "東京駅丸の内北口・日本橋口、JR神田駅西口より徒歩約10分、大手町駅より徒歩約5分。宿泊者専用ラウンジでドリンク無料提供",
+            "hotelMinCharge": 11115,
+            "latitude": 128469.78,
+            "longitude": 503172.65,
+            "postalCode": "101-0047",
+            "address1": "東京都",
+            "address2": "千代田区内神田2-1-2",
+            "telephoneNo": "03-3254-3131",
+            "faxNo": "03-3254-3133",
+            "access": "東京駅丸の内北口・日本橋口、JR神田駅西口徒歩約10分、東京メトロ大手町駅A2出口徒歩約3分※大手町駅A5出口徒歩約5分",
+            "parkingInformation": "あいにく駐車場はございません。近隣のコインパーキングをご利用ください。",
+            "nearestStation": "東京",
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/166074/166074.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/166074.jpg",
+            "roomImageUrl": null,
+            "roomThumbnailUrl": null,
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/166074/166074map.gif",
+            "reviewCount": 293,
+            "reviewAverage": 4.5,
+            "userReview": "　大手町と言ってもほとんど神田なので東京駅からの徒歩は15分くらいかかります。連泊しましたが、翌日の朝食は神田へ。これがダメダメだったのでその次の日はホテルの朝食をいただきました。パンはおいしかったで…　2024-12-28 20:45:58投稿 \u003Ca href=\"https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=166074\" class=\"3click\"\u003Eつづきはこちら\u003C/a\u003E"
+          }
+        },
+        {
+          "roomInfo": [
+            {
+              "roomBasicInfo": {
+                "roomClass": "25msn",
+                "roomName": "スタンダードダブル",
+                "planId": 6089841,
+                "planName": "【連泊割】2連泊以上でお得にステイ＜素泊り＞",
+                "pointRate": 1,
+                "withDinnerFlag": 0,
+                "dinnerSelectFlag": 0,
+                "withBreakfastFlag": 0,
+                "breakfastSelectFlag": 0,
+                "payment": "1",
+                "reserveUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/IdsCY/?f_no=166074&f_syu=25msn&f_hi1=2025-6-20&f_hi2=2025-6-22&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_camp_id=6089841",
+                "salesformFlag": 0
+              }
+            },
+            {
+              "dailyCharge": {
+                "stayDate": "2025-6-20",
+                "rakutenCharge": 27830,
+                "total": 27830,
+                "chargeFlag": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 183800,
+            "hotelName": "ＥＬＥ　ｈｏｔｅｌ　Ｇｉｎｚａ　Ｅａｓｔ",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/pvonD/?f_no=183800",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/vFumt/?f_no=183800&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/WzozX/?noTomariHotel=183800",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=183800",
+            "hotelKanaName": "いり　ほてる　ぎんざ　いーすと",
+            "hotelSpecial": "最寄駅から徒歩５分！銀座や築地へのアクセス抜群！地下鉄の駅も近く観光に最適です！",
+            "hotelMinCharge": 4305,
+            "latitude": 128408.7,
+            "longitude": 503201.96,
+            "postalCode": "104-0041",
+            "address1": "東京都",
+            "address2": "中央区新富1-15-10",
+            "telephoneNo": "0368696078",
+            "faxNo": "0362608832",
+            "access": "「イリホテル銀座イースト」は，東京メトロ・ＪＲ　八丁堀駅より徒歩にて約５分★東京メトロ　新富町駅より徒歩にて約5分",
+            "parkingInformation": "無し",
+            "nearestStation": "八丁堀（東京）",
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183800/183800.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/183800.jpg",
+            "roomImageUrl": null,
+            "roomThumbnailUrl": null,
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/183800/183800map.gif",
+            "reviewCount": 51,
+            "reviewAverage": 4,
+            "userReview": "ベッドも広く寝心地も良いし、シャワーとトイレが別だし、フロントで寝巻きも借りられてあの宿泊料金なので、ま…　2025-05-13 20:24:17投稿 \u003Ca href=\"https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=183800\" class=\"3click\"\u003Eつづきはこちら\u003C/a\u003E"
+          }
+        },
+        {
+          "roomInfo": [
+            {
+              "roomBasicInfo": {
+                "roomClass": "12345",
+                "roomName": "ダブル",
+                "planId": 5461465,
+                "planName": "★【スタンダードプラン】★【素泊まり】◇東京ディズニーランドへの電車アクセスが抜群♪",
+                "pointRate": 1,
+                "withDinnerFlag": 0,
+                "dinnerSelectFlag": 0,
+                "withBreakfastFlag": 0,
+                "breakfastSelectFlag": 0,
+                "payment": "1",
+                "reserveUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/IdsCY/?f_no=183800&f_syu=12345&f_hi1=2025-6-20&f_hi2=2025-6-22&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_camp_id=5461465",
+                "salesformFlag": 0
+              }
+            },
+            {
+              "dailyCharge": {
+                "stayDate": "2025-6-20",
+                "rakutenCharge": 15300,
+                "total": 15300,
+                "chargeFlag": 0
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "hotel": [
+        {
+          "hotelBasicInfo": {
+            "hotelNo": 5001,
+            "hotelName": "ホテルモントレ　ラ・スールギンザ",
+            "hotelInformationUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/pvonD/?f_no=5001",
+            "planListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/vFumt/?f_no=5001&f_flg=PLAN",
+            "dpPlanListUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/WzozX/?noTomariHotel=5001",
+            "reviewUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/gJNfM/?f_hotel_no=5001",
+            "hotelKanaName": "もんとれ　ら・すーる　ぎんざ",
+            "hotelSpecial": "全室に美顔器のようなシャワーヘッド『ミラブル』を完備♪銀座一丁目駅より徒歩１分",
+            "hotelMinCharge": 8350,
+            "latitude": 128414.4,
+            "longitude": 503181.09,
+            "postalCode": "104-0061",
+            "address1": "東京都",
+            "address2": "中央区銀座1-10-18",
+            "telephoneNo": "03-3562-7111",
+            "faxNo": "03-3544-1600",
+            "access": "東京メトロ有楽町線銀座一丁目駅10番出口徒歩1分 銀座線銀座駅徒歩4分 JR有楽町駅徒歩6分",
+            "parkingInformation": "有り＜1泊2,000円､台数､サイズ制限あり＞ 完全予約制  必ずお電話下さい｡",
+            "nearestStation": "有楽町",
+            "hotelImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5001/5001.jpg",
+            "hotelThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/90/5001.jpg",
+            "roomImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5001/5001_room.jpg",
+            "roomThumbnailUrl": "https://img.travel.rakuten.co.jp/HIMG/INTERIOR/5001.jpg",
+            "hotelMapImageUrl": "https://img.travel.rakuten.co.jp/share/HOTEL/5001/5001map.gif",
+            "reviewCount": 2620,
+            "reviewAverage": 4,
+            "userReview": "チェックインの時待たされました。海外の方が多いようです。部屋のトイレですが、水を流す所が　ガクガクして水を流しずらかったです\r\n朝食は美味しくいただきました。　2025-02-26 16:55:35投稿"
+          }
+        },
+        {
+          "roomInfo": [
+            {
+              "roomBasicInfo": {
+                "roomClass": "ksra",
+                "roomName": "シングルルーム【禁煙】",
+                "planId": 5760181,
+                "planName": "【楽天月末セール】★ モントレ・ザ・スペシャル＜素泊り＞",
+                "pointRate": 1,
+                "withDinnerFlag": 0,
+                "dinnerSelectFlag": 0,
+                "withBreakfastFlag": 0,
+                "breakfastSelectFlag": 0,
+                "payment": "1",
+                "reserveUrl": "https://img.travel.rakuten.co.jp/image/tr/api/re/IdsCY/?f_no=5001&f_syu=ksra&f_hi1=2025-6-20&f_hi2=2025-6-22&f_heya_su=1&f_otona_su=1&f_s1=0&f_s2=0&f_y1=0&f_y2=0&f_y3=0&f_y4=0&f_camp_id=5760181",
+                "salesformFlag": 0
+              }
+            },
+            {
+              "dailyCharge": {
+                "stayDate": "2025-6-20",
+                "rakutenCharge": 23200,
+                "total": 23200,
+                "chargeFlag": 0
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
