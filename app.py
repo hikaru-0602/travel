@@ -129,9 +129,9 @@ def get_coordinates_from_openai(location_text):
             if json_match:
                 coordinates = json.loads(json_match.group())
                 # 緯度経度をミリ秒小数点以下2桁まで丸める
-                if 'latitude' in coordinates:
+                if 'latitude' in coordinates and coordinates['latitude'] is not None:
                     coordinates['latitude'] = round(float(coordinates['latitude']), 2)
-                if 'longitude' in coordinates:
+                if 'longitude' in coordinates and coordinates['longitude'] is not None:
                     coordinates['longitude'] = round(float(coordinates['longitude']), 2)
                 coordinates['source'] = 'openai'
                 return coordinates
@@ -262,8 +262,12 @@ def parse_travel_request_with_openai(text):
                 coordinates = get_coordinates_from_location(params['location'])
                 if coordinates and 'latitude' in coordinates and 'longitude' in coordinates:
                     # 緯度経度をパラメータに追加（日本測地系・秒単位、小数点以下2桁まで）
-                    params['latitude'] = round(float(coordinates['latitude']), 2)
-                    params['longitude'] = round(float(coordinates['longitude']), 2)
+                    # None値のチェックを追加
+                    lat_val = coordinates['latitude']
+                    lng_val = coordinates['longitude']
+                    if lat_val is not None and lng_val is not None:
+                        params['latitude'] = round(float(lat_val), 2)
+                        params['longitude'] = round(float(lng_val), 2)
 
                     # searchRadiusがない場合はデフォルト値を設定
                     if 'searchRadius' not in params:
@@ -462,10 +466,14 @@ def format_hotel_results(results):
                     st.markdown(f"🚃 **アクセス**: {access}")
 
                     # 評価情報
-                    if review_average != 'N/A' and review_count > 0:
-                        # 星の表示
-                        stars = "⭐" * min(int(float(review_average)), 5)
-                        st.markdown(f"{stars} **{review_average}** ({review_count}件のレビュー)")
+                    if review_average != 'N/A' and review_average is not None and review_count > 0:
+                        try:
+                            # 星の表示
+                            stars = "⭐" * min(int(float(review_average)), 5)
+                            st.markdown(f"{stars} **{review_average}** ({review_count}件のレビュー)")
+                        except (ValueError, TypeError):
+                            # 評価値の変換に失敗した場合はスキップ
+                            pass
 
                     # 特典情報
                     if hotel_special:
@@ -723,24 +731,29 @@ def main():
                     coordinates = get_coordinates_from_location(location_input)
                     if coordinates and 'latitude' in coordinates and 'longitude' in coordinates:
                         # 緯度経度をミリ秒小数点以下2桁まで丸める
-                        detail_params['latitude'] = round(float(coordinates['latitude']), 2)
-                        detail_params['longitude'] = round(float(coordinates['longitude']), 2)
+                        lat_val = coordinates['latitude']
+                        lng_val = coordinates['longitude']
+                        if lat_val is not None and lng_val is not None:
+                            detail_params['latitude'] = round(float(lat_val), 2)
+                            detail_params['longitude'] = round(float(lng_val), 2)
 
-                        # 使用したAPIソースを表示
-                        source = coordinates.get('source', 'unknown')
-                        if source == 'google_geocoding':
-                            source_emoji = "🌐"
-                            source_text = "Google Geocoding API"
-                        elif source == 'openai':
-                            source_emoji = "🤖"
-                            source_text = "OpenAI"
+                            # 使用したAPIソースを表示
+                            source = coordinates.get('source', 'unknown')
+                            if source == 'google_geocoding':
+                                source_emoji = "🌐"
+                                source_text = "Google Geocoding API"
+                            elif source == 'openai':
+                                source_emoji = "🤖"
+                                source_text = "OpenAI"
+                            else:
+                                source_emoji = "❓"
+                                source_text = "不明"
+
+                            st.success(f"🎯 緯度経度選択（{source_emoji} {source_text}使用）: 「{location_input}」→ 緯度: {coordinates['latitude']}, 経度: {coordinates['longitude']}")
+                            if 'location_name' in coordinates:
+                                st.info(f"🏙️ 詳細情報: {coordinates['location_name']}")
                         else:
-                            source_emoji = "❓"
-                            source_text = "不明"
-
-                        st.success(f"🎯 緯度経度選択（{source_emoji} {source_text}使用）: 「{location_input}」→ 緯度: {coordinates['latitude']}, 経度: {coordinates['longitude']}")
-                        if 'location_name' in coordinates:
-                            st.info(f"🏙️ 詳細情報: {coordinates['location_name']}")
+                            st.warning(f"⚠️ 緯度経度の値が無効です: 緯度={lat_val}, 経度={lng_val}")
                     else:
                         st.warning(f"⚠️ 地域「{location_input}」の緯度経度選択に失敗しました")
 
